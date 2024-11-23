@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp
+*.tmp
+*.cache
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# Build output
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Dependency lockfiles (optional)
+# package-lock.json
+# yarn.lock
